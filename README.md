@@ -1,27 +1,30 @@
 <h1 align="center">Hi 👋, I'm Sachin Lodhi</h1>
 
 <h3 align="center">
-Python Developer | Django Developer | Full Stack Web Developer
+🚀 Python Developer | Django Developer | Full Stack Web Developer
 </h3>
 
 ---
 
 # 👨‍💻 About Me
 
-🎓 **B.Tech Computer Science & Engineering (Passout 2026)**  
+🎓 **Bachelor of Technology (B.Tech) in Computer Science & Engineering**  
+📅 **Passout: 2026**  
 🏫 **Rajiv Gandhi Proudyogiki Vishwavidyalaya (RGPV), Bhopal**
 
-💻 I am a **Python Developer** with a strong interest in **Full Stack Web Development**. I enjoy building real-world web applications using Python and modern web technologies.
+💻 I am a **Python Developer** passionate about building modern, scalable, and user-friendly web applications.
 
-🚀 I have completed a **Python Developer Course** and continuously improve my skills by developing practical projects.
+✅ I have completed a **Python Developer Course** and gained practical experience by developing multiple real-world projects.
 
-🎯 My goal is to become a professional **Python Full Stack Developer** and contribute to innovative software solutions.
+🚀 I enjoy solving problems, learning new technologies, and continuously improving my development skills.
+
+🎯 **Career Goal:** To become a Professional Full Stack Python Developer and contribute to innovative software products.
 
 ---
 
-# 🚀 Technical Skills
+# 🚀 Tech Stack
 
-## 👨‍💻 Programming Languages
+### 💻 Programming Languages
 
 - Python
 - JavaScript
@@ -29,9 +32,7 @@ Python Developer | Django Developer | Full Stack Web Developer
 - CSS3
 - SQL
 
----
-
-## ⚙️ Frameworks & Libraries
+### ⚙️ Frameworks
 
 - Django
 - Django REST Framework (Learning)
@@ -39,21 +40,17 @@ Python Developer | Django Developer | Full Stack Web Developer
 - Express.js
 - Bootstrap
 
----
-
-## 🗄️ Database
+### 🗄 Database
 
 - MySQL
 - SQLite
 
----
-
-## 🛠️ Tools & Technologies
+### 🛠 Tools
 
 - Git
 - GitHub
 - VS Code
-- REST APIs
+- REST API
 - Responsive Web Design
 
 ---
@@ -62,7 +59,7 @@ Python Developer | Django Developer | Full Stack Web Developer
 
 ## 🛒 Ecommerce Store
 
-A complete Ecommerce Website developed using Django.
+A complete Django Ecommerce Website.
 
 ### Features
 
@@ -71,7 +68,7 @@ A complete Ecommerce Website developed using Django.
 - Product Details
 - Shopping Cart
 - Order Management
-- Admin Panel
+- Admin Dashboard
 
 🔗 https://github.com/mrsonu121/ecommerce-store
 
@@ -79,16 +76,16 @@ A complete Ecommerce Website developed using Django.
 
 ## 📋 TaskFlowPro
 
-A Project Management Tool inspired by Trello and Asana.
+Project Management System inspired by Trello & Asana.
 
 ### Features
 
 - User Authentication
 - Project Management
 - Task Management
-- Task Assignment
+- Assign Tasks
 - Dashboard
-- Comments System
+- Comments
 
 🔗 https://github.com/mrsonu121/taskflow
 
@@ -96,7 +93,7 @@ A Project Management Tool inspired by Trello and Asana.
 
 ## 💼 CodeAlpha Internship Projects
 
-Repository containing my internship projects.
+Collection of internship projects.
 
 🔗 https://github.com/mrsonu121/codealpha_tasks
 
@@ -107,30 +104,36 @@ Repository containing my internship projects.
 - Advanced Django
 - Django REST Framework
 - React.js
-- Deployment
 - Docker
+- Deployment
+
+---
+
+# 💼 Soft Skills
+
+- Problem Solving
+- Teamwork
+- Quick Learner
+- Communication
+- Self Learning
+- Time Management
 
 ---
 
 # 📫 Contact
 
-mobile no - 9753738630
-
 📧 Email
 
-lodhisachin7734@gmail.com
+**lodhisachin7734@gmail.com**
 
 🐙 GitHub
 
-https://github.com/mrsonu121
+**https://github.com/mrsonu121**
 
 ---
 
-# 💡 Career Objective
+# ⭐ Thanks for Visiting
 
-To work in a growth-oriented organization where I can utilize my programming and problem-solving skills, continuously learn new technologies, and contribute to building high-quality software solutions.
+Thank you for visiting my GitHub profile.
 
----
-
-⭐ Thank you for visiting my GitHub profile.
-If you like my projects, don't forget to ⭐ Star them.
+If you like my work, don't forget to ⭐ Star my repositories.
